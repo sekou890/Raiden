@@ -1,6 +1,6 @@
 
 
-  module.exports = {
+module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["962994407651553302", ""], 
